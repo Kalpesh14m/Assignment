@@ -94,7 +94,6 @@
 
 ---
 
-
 ## 4. We have a Parent class with 2 methods walk and run. We have a child class which overrides both the methods. Both child class methods just call their respective Super implementation. Parent class run method calls walk(). class Parent Parent p = new Child(); p.run(); Tell the order in which each method is called
 
 Child - run calling super run()
@@ -123,3 +122,12 @@ System.out.println(c);
 ## 6. Given an array of n integers and a number k, find the pairs of numbers in the array such that the difference between the pair is k. Find the optimal solution with and without extra storage
 
 ## [Solution](https://github.com/Kalpesh14m/java-comparable-vs-comparator/blob/main/src/com/stmt9/Stmt9.java)
+
+---
+
+## 7. Threading
+
+## [Solution](https://github.com/Kalpesh14m/Assignment/tree/main/src/com/stmt4)
+
+## Ref:
+### [Threading:](https://javahungry.blogspot.com/p/threads.html)
